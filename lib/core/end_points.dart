@@ -1,0 +1,1 @@
+const other = '/rest/services/timeline/Kafr%20el-Sheikh?unitGroup=metric&key=8KDMZ4AUK357TNCWLAWFTYBE3&contentType=json';
